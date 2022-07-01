@@ -97,5 +97,3 @@ Do not add your database (db.sqlite) to version control (GitHub).
 Ensure your final code/submission is on the default branch of your GitHub repository.
 
 Submit the link to your Github repository e.g https://github.com/github_username/repo_name
-
- 
